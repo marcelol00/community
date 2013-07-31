@@ -1,4 +1,4 @@
 community
 =========
 
-Repositório para Códigos de programação da comunidade dedesenvolvimento..
+Repositório para Códigos de programação da comunidade de desenvolvimento..
